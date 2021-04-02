@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "shopping-app",
+    "name": "Shopping",
+    "description": "A Shopping App",
     "slug": "shopping-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,6 +11,10 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "updates": {
       "fallbackToCacheTimeout": 0
     },
